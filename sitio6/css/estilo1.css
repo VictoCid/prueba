@@ -1,0 +1,14 @@
+﻿.fondo1{
+    background-color:aqua;
+    color:red;
+
+}
+
+.fondo2{
+    background-color:teal;
+    color:lawngreen;
+}
+.fondo1:hover, .fondo2:hover {
+    background-color:yellow;
+    color:blue;
+}
